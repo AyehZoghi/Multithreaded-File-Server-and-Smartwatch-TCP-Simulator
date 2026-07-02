@@ -32,7 +32,7 @@ The project has two main parts:
 ## Project Structure
 
 ```text
-OS_PROJECT/
+Multithreaded File Server and Smartwatch TCP Simulator/
 ├── src/
 │   ├── Server.java              # Main TCP server
 │   ├── Client.java              # Basic file client
