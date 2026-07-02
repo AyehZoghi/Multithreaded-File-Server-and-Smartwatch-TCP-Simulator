@@ -193,26 +193,6 @@ Test Read File: PASSED
 Test Write File: PASSED
 ```
 
-## Suggested `.gitignore`
-
-When uploading this project to GitHub, generated files should not be committed. A recommended `.gitignore` is:
-
-```gitignore
-# Java compiled files
-*.class
-out/
-
-# IntelliJ IDEA project files
-.idea/
-*.iml
-
-# Logs and temporary files
-*.log
-*.tmp
-```
-
-You should usually keep the `src/` folder and the project PDF, but avoid uploading compiled `.class` files and IDE-generated folders.
-
 ## Notes
 
 - The server uses port `12345`.
